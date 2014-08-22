@@ -1,0 +1,12 @@
+Package: rWBData
+Title: Access World Bank's Open Data in R
+Version: 0.1.1
+Date: 2014-08-21
+Author: Ming-Jer Lee
+Maintainer: Ming-Jer Lee <mingjerli@gmail.com>
+Description: Convert World Bank's Open Data to a data frame or download bulk data (in format of .csv, .xlsx, .zip ...) directly.
+License: GPL-3
+Depends: RSocrata
+Imports: plyr, RJSONIO
+URL: https://github.com/mingjerli/
+
